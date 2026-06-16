@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sábanas blancas y luces de neón,
+> bebé, tú sabes que yo tengo el control.
+> Manda location, que arranco el motor,
+> esta noche en la disco somos tú y yo.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
