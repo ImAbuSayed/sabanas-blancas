@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas blancas
+
+This log tracks the cryptographic history and versioning for the song **Sábanas blancas** (sabanas-blancas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T22:38:18.312977 | `v1` | `765a48f2f98415c8d697394ac8dcc1fc2552c332042efa0785aa63ff1d1f098e` | `242e997709d48857af953d79fb2cc8cc8eddfdd683f4388660515f59025911ea` | `2026-06-16_sabanas-blancas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
